@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Note: don't forget to run `npm install` in the backend folder to get the nodejs working.
+Note: Please don't forget to run `npm install` in the backend folder to get the nodejs working and of course the main Angular project needs it too. This can be done automatically via an .sh file.
 
 Run `npm run start:all` to start the angular dev and the nodejs backend. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
